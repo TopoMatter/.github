@@ -1,8 +1,8 @@
 # Hi there 👋
 
-This is the GitHub page of the "[Topological states of matter](https://www.ifw-dresden.de/ifw-institutes/itf/home/research-topics-teams/topological-states-of-matter)" group at the Leibniz Institute for Solid State and Materials Research Dresden ([IFW Dresden](https://www.ifw-dresden.de/) for short).
+This is the GitHub page of the [Topological states of matter](https://www.ifw-dresden.de/ifw-institutes/itf/home/research-topics-teams/topological-states-of-matter) group at the Leibniz Institute for Solid State and Materials Research Dresden ([IFW Dresden](https://www.ifw-dresden.de/) for short).
 
-We're theoretical physicists who study the properties of topological systems and explore new types of topological phases. These include topological insulators and superconductors, but also gapless systems such as Weyl semimetals. Part of our focus is on determining the stability of topological phases to perturbations such as disorder, as well as studying their dynamical properties.
+We're theoretical physicists who study the properties of topological systems and explore new types of topological phases. These include topological insulators and superconductors, but also gapless systems such as Weyl semimetals. Among other things, we focus on determining the stability of topological phases to perturbations such as disorder and study their dynamical properties.
 
 ## Group Members
 
@@ -20,7 +20,7 @@ and one postdoc:
 
 |**Bachelor Students**|**Master's Students**|**PhD Students**|**Postdocs**|
 |:---|:---|:---|:---|
-| Anastasiia Chyzhykova <br/> Nisarg Amit Chadha | Konstantinos Ladovrechis <br/> Silas Flöter <br/> Philipp Heilmann <br/> Giovanni Castorina <br/> Vladyslav Verteletskyi | Bhargava Balaganchi <br/> Hui Liu <br/> Sanjib Kumar Das <br/> Selma Franca | Viktor Könye <br/> Daniel Varjas <br/> Jhih-Shih You <br/> Ali Moghaddam |
+| Anastasiia Chyzhykova <br/> Nisarg Amit Chadha | Giovanni Castorina <br/> Konstantinos Ladovrechis <br/> Philipp Heilmann <br/> Silas Flöter <br/> Vladyslav Verteletskyi | Bhargava Balaganchi <br/> Hui Liu <br/> Sanjib Kumar Das <br/> Selma Franca | Ali Moghaddam <br/> Daniel Varjas <br/> Jhih-Shih You <br/> Viktor Könye |
 
 ## Highlights
 
@@ -51,7 +51,7 @@ and one postdoc:
 
 ## Contact
 
-Dr. Cosma Fulga
+Dr. Ion Cosma Fulga
 
 🏠 IFW Dresden,\
 Helmholtzstr. 20,\
