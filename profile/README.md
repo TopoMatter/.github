@@ -20,7 +20,7 @@ and one postdoc:
 
 |**Bachelor Students**|**Master's Students**|**PhD Students**|**Postdocs**|
 |:---|:---|:---|:---|
-| Anastasiia Chyzhykova | Konstantinos Ladovrechis <br/> Silas Flöter <br/> Philipp Heilmann <br/> Giovanni Castorina <br/> Vladyslav Verteletskyi | Bhargava Balaganchi <br/> Hui Liu <br/> Sanjib Kumar Das <br/> Selma Franca | Viktor Könye <br/> Daniel Varjas <br/> Jhih-Shih You <br/> Ali Moghaddam |
+| Anastasiia Chyzhykova <br/> Nisarg Amit Chadha | Konstantinos Ladovrechis <br/> Silas Flöter <br/> Philipp Heilmann <br/> Giovanni Castorina <br/> Vladyslav Verteletskyi | Bhargava Balaganchi <br/> Hui Liu <br/> Sanjib Kumar Das <br/> Selma Franca | Viktor Könye <br/> Daniel Varjas <br/> Jhih-Shih You <br/> Ali Moghaddam |
 
 ## Five Research Highlights
 
