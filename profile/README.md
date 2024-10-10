@@ -18,7 +18,7 @@ and one postdoc:
 
 ## Previous Group Members
 
-|**Bachelor Students**|**Master's Students**|**PhD Students**|**Postdocs**|
+|**Bachelor Students**|**Master Students**|**PhD Students**|**Postdocs**|
 |:---|:---|:---|:---|
 | Anastasiia Chyzhykova <br/> Nisarg Amit Chadha | Giovanni Castorina <br/> Konstantinos Ladovrechis <br/> Philipp Heilmann <br/> Silas Flöter <br/> Vladyslav Verteletskyi | Bhargava Balaganchi <br/> Hui Liu <br/> Sanjib Kumar Das <br/> Selma Franca | Ali Moghaddam <br/> Daniel Varjas <br/> Jhih-Shih You <br/> Viktor Könye |
 
