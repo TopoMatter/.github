@@ -26,7 +26,7 @@ and one postdoc:
 
 **1.** Gabriele Naselli, György Frank, Dániel Varjas, Ion Cosma Fulga, Gergő Pintér, András Pályi, and Viktor Könye,\
    _"Stability of Weyl node merging processes under symmetry constraints,"_\
-   accepted in PRL. ([arXiv:2403.08518](https://arxiv.org/abs/2403.08518))
+   [Phys. Rev. Lett. **133**, 196602 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.196602). ([arXiv:2403.08518](https://arxiv.org/abs/2403.08518))
    
 **2.** Toshihiro Sato, Sonia Haddad, Ion Cosma Fulga, Fakher F. Assaad, and Jeroen van den Brink,\
    _"Altermagnetic anomalous Hall effect emerging from electronic correlations,"_\
