@@ -4,23 +4,11 @@ This is the GitHub page of the [Topological states of matter](https://www.ifw-dr
 
 We're theoretical physicists who study the properties of topological systems and explore new types of topological phases. These include topological insulators and superconductors, but also gapless systems such as Weyl semimetals. Among other things, we focus on determining the stability of topological phases to perturbations such as disorder and study their dynamical properties.
 
-## Group Members
-
-Our team is currently made up of three PhD students:
-
-- Gabriele Naselli
-- Ihor Nimyi
-- Raghav Chaturvedi
-
-and one postdoc: 
-
-- Mattia Trama
-
 ## Previous Group Members
 
 |**Bachelor Students**|**Master Students**|**PhD Students**|**Postdocs**|
 |:---|:---|:---|:---|
-| Anastasiia Chyzhykova <br/> Nisarg Amit Chadha | Giovanni Castorina <br/> Konstantinos Ladovrechis <br/> Philipp Heilmann <br/> Silas Flöter <br/> Vladyslav Verteletskyi | Bhargava Balaganchi <br/> Hui Liu <br/> Sanjib Kumar Das <br/> Selma Franca | Ali Moghaddam <br/> Daniel Varjas <br/> Jhih-Shih You <br/> Viktor Könye |
+| Anastasiia Chyzhykova <br/> Nisarg Amit Chadha | Giovanni Castorina <br/> Konstantinos Ladovrechis <br/> Philipp Heilmann <br/> Silas Flöter <br/> Vladyslav Verteletskyi | Gabriele Naselli <br/> Raghav Chaturvedi <br/> Bhargava Balaganchi <br/> Hui Liu <br/> Sanjib Kumar Das <br/> Selma Franca | Mattia Trama <br/> Ali Moghaddam <br/> Daniel Varjas <br/> Jhih-Shih You <br/> Viktor Könye |
 
 ## Highlights
 
